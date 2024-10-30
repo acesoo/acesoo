@@ -1,5 +1,5 @@
 <head>
-<h2>Yo! Acesoo here</h2>
+<h2>Yo! Ralph here! </h2>
 <p> Hello👋I'm Ralph Anthony Biazon  a CompSci Student at NEU, I'm currently finding what's best for me but I'm passionate about learning about all kind of things!</p>
 </head>
 
@@ -9,7 +9,7 @@
 <ul>
 <li>
 <p> New Era University <br> 
-BS Computer Science (2023-Present) 
+Bachelor of Science in Computer Science (2023-Present) 
 </li>
 </p>
 </ul>
