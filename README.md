@@ -1,6 +1,6 @@
 <head>
-<h2>Yo! Ralph here! </h2>
-<p> Hello👋I'm Ralph Anthony Biazon  a CompSci Student at NEU, I'm currently finding what's best for me but I'm passionate about learning about all kind of things!</p>
+<h2>Yo! Ralph here! 👋</h2>
+<p> Hello I'm Ralph Anthony Biazon a CompSci Student at NEU, I'm currently finding what's best for me but I'm passionate about learning about all kind of things!</p>
 </head>
 
 <body>
