@@ -19,6 +19,7 @@ Bachelor of Science in Computer Science (2023-Present)
 <li><a href="https://courses.cognitiveclass.ai/certificates/7721fa82232040869256eef41a387831">SQL and Relational Databases 101</a>
 <li><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8DE8EE6F6AC8AB5CC58381204B64D9896F200D5507898EEEC4CFB2FFD8F126CF">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a>
 <li><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8DE8EE6F6AC8AB5CC58381204B64D9895C4CACAF1AF8482248E61E059A6A5815">Oracle Cloud Infrastructure 2024 Data Foundations Associate</a>
+<li><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=543C7DCC9A463B3A22C74190FBA5178C7C03AF870AE49F95A6B2FE8E5A5708DF">Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</a>
 </ul>
 <h4>Skillsets</h4>
 <hr>
